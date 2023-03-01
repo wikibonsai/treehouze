@@ -1,0 +1,11 @@
+.select-box {
+  position: absolute;
+  z-index: 300000;
+  border-style: dotted;
+  border-color: #3e74cc;
+  background-color: rgba(255, 255, 255, 0.5);
+  pointer-events: none;
+  /* border: 1px solid #55aaff;
+  background-color: rgba(75, 160, 255, 0.3);
+  position: fixed; */
+}
