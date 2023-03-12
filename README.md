@@ -24,7 +24,7 @@ npm install treehouze
 Or use a script tag:
 
 ```html
-<script type="module" src="treehouze.min.js"></script>
+<script type="module" src="//unpkg.com/treehouze"></script>
 ```
 
 ## Use
